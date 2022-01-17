@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Tatyana</h1>
-<h3 align="center">future Front-End-Developer</h3>
+<h3 align="center"> Front-End-Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tatyanalozova&label=Profile%20views&color=0e75b6&style=flat" alt="tatyanalozova" /> </p>
 
-- 🌱 I’m currently learning **GoIT**
+- 🌱school graduate **GoIT**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
